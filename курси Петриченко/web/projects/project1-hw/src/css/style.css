@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 200;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+}
+
+.stories {
+    font-style: italic;
+}
